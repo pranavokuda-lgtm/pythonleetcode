@@ -11,4 +11,5 @@
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pranavokuda-lgtm/pythonleetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/pranavokuda-lgtm/pythonleetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
